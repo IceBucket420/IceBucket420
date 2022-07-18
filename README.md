@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning game design
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me in telegram @Icebucket420
+- 😎 A not so Fun fact: I like peanuts
 
 <!---
 IceBucket420/IceBucket420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
